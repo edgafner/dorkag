@@ -11,7 +11,7 @@ With the QueryFlag plugin, you can define and execute template-based queries on 
 
 1. **Configure the Plugin**:
    - Navigate to the plugin's settings: Settings -> Tools -> Databases -> QueryFlag
-   - Add a new query flag:
+   - Add a new query flag: </br> ![img.png](images/addQueryFlagEntry.png) 
       - Give a short and useful name - (db-table names is consider a good practice)
       - Select your existing datasource in the DataSource combobox
       - Add a query with a token `<QUERY_FLAG_TOKEN>` to be replaced with selected string. examples:
@@ -22,7 +22,7 @@ With the QueryFlag plugin, you can define and execute template-based queries on 
 ## RunQuery
 1. **Enjoy the Integration**:
    - Select a string in the text editor you want use with the query flag.
-   - Right click on it and select Query Flag in DB and the Query Flag name you chose ![img.png](img.png)
+   - Right click on it and select Query Flag in DB and the Query Flag name you chose ![img.png](images/img.png)
    - Now Query Flag will run you query replacing the token with the selected string, and you will be able to see the results in your IDE
 
 

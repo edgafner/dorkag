@@ -21,7 +21,7 @@ Installing the AZD IntelliJ Plugin is straightforward and ensures a seamless int
 
 4. **Configure the Plugin**:
     - After restarting, navigate to the plugin's settings. Here, you'll be asked to enter your Azure DevOps Personal Access Token (PAT) to establish the connection.
-    - For more details on how to create a PAT see [Microsoft Doc](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows)
+    - For more details on how to create a PAT see [Microsoft Doc](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows) </br> ![img_1.png](images/connectToAZD.png) </br> ![img_1.png](images/addPAT.png) </br> ![img_1.png](images/connected.png) 
     - Save your settings.
 
 5. **Enjoy the Integration**:

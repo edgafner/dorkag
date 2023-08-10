@@ -12,7 +12,7 @@ The AZD IntelliJ Plugin integrates Azure DevOps pull request workflows directly 
 ## Viewing Pull Requests
 
 1. **Access AZD Tool Window**:
-   - Navigate to the AZD tool window, typically located on the right-hand side of your IDE. ![img.png](images/toolwindowIcon.png)
+   - Navigate to the AZD tool window, typically located on the right-hand side of your IDE. </br> ![img.png](images/toolwindowIcon.png)
 
 2. **See Pull Requests**:
    - Within the AZD tool window, you'll see a list of all pull requests related to your projects.

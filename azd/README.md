@@ -6,7 +6,6 @@ With AZD, stay focused on your code by handling all pull request operations with
 
 ## Table of Contents
 
-- [Features](#features)
 - [Installation](INSTALLATION.md)  <!-- Updated this line -->
 - [Usage](USAGE.md)
 - [Support](SUPPORT.md)

@@ -1,24 +1,14 @@
-# AZD IntelliJ Plugin for Azure DevOps
+# Dorkag
 
-AZD is an innovative JetBrains IDE plugin that seamlessly integrates Azure DevOps pull request workflows into your development environment.
-
-With AZD, stay focused on your code by handling all pull request operations without ever leaving your IDE. Say goodbye to constant context switching and elevate your productivity.
+We build IDE plugins for JetBrains to boost developer productivity. Our plugins include GideaBrowser, QueryFlag, and AZD, designed to streamline workflow and simplify coding. With years of experience, we understand the challenges of software development and aim to make the process easier and more efficient for our users.
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](INSTALLATION.md)  <!-- Updated this line -->
-- [Usage](USAGE.md)
-- [Support](SUPPORT.md)
-- [License](https://dorkag.com/services-terms-and-conditions)
+- [Our Plugins](#Plugins)
 
 
-## Features
+## Plugins
 
-- **View Pull Requests**: Access and see all your pull requests within your IDE.
-- **Manage Pull Requests**: Open, close, and vote for pull requests with ease.
-- **Reviewing**: Comment on, reply to, and review pull requests right where you code.
-- **Direct Links**: Instantly jump to Azure DevOps pages from the IDE.
-
-> Note: Currently works with Personal Access Token (PAT) only.
-
+- [GIdeaBrowser](gideaBrowser/README.md)
+- [QueryFlag](queryflag/README.md)
+- [AZD](azd/README.md)

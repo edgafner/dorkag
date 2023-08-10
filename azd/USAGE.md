@@ -12,26 +12,26 @@ The AZD IntelliJ Plugin integrates Azure DevOps pull request workflows directly 
 ## Viewing Pull Requests
 
 1. **Access AZD Tool Window**:
-   - Navigate to the AZD tool window, typically located on the right-hand side of your IDE.
+   - Navigate to the AZD tool window, typically located on the right-hand side of your IDE. ![img.png](images/toolwindowIcon.png)
 
 2. **See Pull Requests**:
    - Within the AZD tool window, you'll see a list of all pull requests related to your projects.
    - Click on any pull request to view its details.
-   - Filter pull requests by Active, Closed, or Abandoned status, or by Author or Reviewers.
+   - Filter pull requests by Active, Closed, or Abandoned status, or by Author or Reviewers. ![img_1.png](images/prList.png)
 
 ## Managing Pull Requests
 
 1. **Open a New Pull Request**:
    - Inside the AZD tool window, click on the `+` button or search for `Create Pull Request` in the actions search.
    - Provide a title, description, add reviewers as needed, and click 'Create'.
-   - You can also initiate a pull request in Draft mode.
+   - You can also initiate a pull request in Draft mode. </br> ![img_2.png](images/createPRFromActions.png) OR </br> ![img_3.png](images/createPRFromToolWindow.png)
 
-2. **Close a Pull Request**:
+2. **Merge, Close or Abandon a Pull Request**:
    - Select the pull request you wish to close.
-   - You have the option to merge it, abandon it, or convert it to a draft.
+   - You have the option to merge it, abandon it, or convert it to a draft. </br> ![img_4.png](images/prReview.png)
 
 3. **Vote for a Pull Request**:
-   - At the bottom of each open pull request, look for the three dots menu where you can cast a vote for the selected pull request.
+   - At the bottom of each open pull request, look for the three dots menu where you can cast a vote for the selected pull request. </br> ![img.png](images/vote.png)
 
 ## Reviewing Pull Requests
 
@@ -40,7 +40,7 @@ The AZD IntelliJ Plugin integrates Azure DevOps pull request workflows directly 
 
 2. **Add Comments**:
    - Highlight specific lines of code or sections to add inline comments.
-   - Click on 'Submit' after entering your comment.
+   - Click on 'Submit' after entering your comment. </br> ![img.png](images/commentOnFile.png) </br> ![img.png](images/commentPRLevel.png) 
 
 3. **Reply to Existing Comments**:
    - Click on an existing comment to view options.

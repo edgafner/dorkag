@@ -1,5 +1,5 @@
 ---
-name: AZD Plugin Bug report
+name: Codecov Plugin Bug report
 about: Create a report to help us improve
 title: "[BUG]:"
 labels: bug
@@ -32,9 +32,6 @@ If applicable, add screenshots to help explain your problem.
  - IDE: [e.g. IntelliJ,Webstorm,Golang]
  - Version: [e.g. 2023.1]
 
-**Azure Devops organization details:**
- - Number and type of users 
- - More details on merge restrictions
 
 **Additional context**
 Add any other context about the problem here.

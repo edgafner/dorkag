@@ -1,5 +1,5 @@
 ---
-name: AZD Plugin Feature request
+name: Codecov Plugin Feature request
 about: Suggest an idea for this project
 title: "[FEATURE]:"
 labels: enhancement

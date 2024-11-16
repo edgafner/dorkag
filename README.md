@@ -1,10 +1,4 @@
-# Dorkag
-
-## Documentation
-
-<img src="./docs/dorkag_banner.jpg" alt="Dorkag"/>
-
-## Plugins
+# Dorkag Plugins
 
 ----
 ![AZD](./docs/azd.svg)
